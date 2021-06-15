@@ -1,7 +1,7 @@
 Automation of the Vegetation Monitoring Program the GTMNERR Using Deep Neural Networks
 
 Introduction:
-Due to the importance of vegetation surveys to monitoring the health of environments, we have assisted Guana Tolomato Matanzas National Estuarine Research Reserve (GTMNERR) in automating the proccess using convolutional neural networks (CNNs) created using Keras and the Tensorflow framework. There are two different types of classifiers being used here--binary classifiers distinguishing between vegetated and unvegetated and a species classifier that distinguishes between the five species present in the marsh (spartina, juncus, batis, sarcocornia, and aviccenia). Contained in this repo are the 
+Due to the importance of vegetation surveys to monitoring the health of environments, we have assisted Guana Tolomato Matanzas National Estuarine Research Reserve (GTMNERR) in automating the proccess using convolutional neural networks (CNNs) created using Keras and the Tensorflow framework. There are two different types of classifiers being used here--binary classifiers distinguishing between vegetated and unvegetated and a species classifier that distinguishes between the five species present in the marsh (spartina, juncus, batis, sarcocornia, and aviccenia). Contained in this repo are the programs used to train AlexNet and LeNet-5 models for the two tasks as well as the saved models that were generated.
 
 What is needed: (latest version for each)
 -Latest version of Python (3.9.0).
